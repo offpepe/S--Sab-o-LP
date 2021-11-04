@@ -2,7 +2,7 @@
 
 ### Propósito
 
-Capitar email de clientes para uma proximidade maior e estratégias de *mailing*
+Capitar email de clientes para uma proximidade maior, contato direto e estratégias de *mailing*
 
 ### Processo
 
