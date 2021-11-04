@@ -2,7 +2,7 @@
 
 ### Propósito
 
-Capitar email de clientes para uma proximidade maior, contato direto e estratégias de *mailing*
+Capitar email de clientes para uma proximidade maior e estratégias de *mailing*
 
 ### Processo
 
@@ -13,7 +13,7 @@ Com as estatísticas, será montado um protótipo *mobile-first*  de uma singleP
 ### Como será feito
 A pagina iniciara com um carousel de noticias e informações em destaque da empresa, como por exemplo alguma data comemorativa da empresa ou alguma conquista recente, logo abaixo aparecerá a história da empresa, em seguida sua cultura, logo depois suas conquistas, seus produtos e por fim um formulário
 
-Neste formulário terão os campos: nome, sobrenome, idade(opcional), email e telefone.
+Neste formulário terão os campos: **nome, sobrenome, idade(opcional), email e telefone.**
 
 Estes dados serão utilizados para o contato, via email direto e whatsapp com chatbot ou consultor da loja.
 
